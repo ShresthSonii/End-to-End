@@ -1,2 +1,2 @@
-# Shresthsoni
-A personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, resume, and contact information.
+# Snake Game (AI Controlled)
+A classic Snake game enhanced with AI logic to autonomously play and improve gameplay strategy. This project demonstrates basic game development using Python and Pygame, along with an AI algorithm to control the snake's movements intelligently
