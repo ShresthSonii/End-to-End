@@ -1,0 +1,12 @@
+🎙️ Speech Emotion Recognition using Deep Learning
+Built a deep learning-based system to classify 8 emotional states from Hindi speech using the IITKGP-SEHSC dataset.
+
+🔍 Features extracted: MFCC, Chroma, Mel Spectrogram, ZCR
+
+🧠 Models used: CNN, LSTM, CNN-LSTM Hybrid
+
+📊 Achieved 78.17% accuracy in emotion classification
+
+💡 Applications: Virtual assistants, mental health monitoring, emotion-aware AI
+
+Tech Stack: Python, Librosa, TensorFlow/Keras, NumPy, Matplotlib
